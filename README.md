@@ -31,6 +31,15 @@ https://www.microsoft.com/web/downloads/platform.aspx
 - nainštaluj si Homebrew https://brew.sh/
 - nainštaluj si PHP 8.0 podľa tohto návodu https://stitcher.io/blog/php-8-upgrade-mac
 
+### Po inštalácii PHP potrebujeme pridať nasledovný riadok do súboru php.ini
+ - vo Windowse nájdeš súbor php.ini tu: `C:\Program Files\PHP\v8.0`
+ - na Macu nájdeš tento súbor tu: `/private/etc/php.ini`
+
+Na koniec súboru pridaj tento riadok
+```
+extension=php_fileinfo.dll
+```
+
 ### Nainštaluj si nástroj composer
 - inštalačný link pre Windows https://getcomposer.org/Composer-Setup.exe
 - inštalácia na Macu a Linuxe https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
