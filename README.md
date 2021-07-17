@@ -24,7 +24,8 @@ https://www.microsoft.com/web/downloads/platform.aspx
 - inštalácia na Macu a Linuxe https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
 
 ### Môžeš si stiahnuť a prezrieť pomôcky z predchádzajúcich kurzov HTML a CSS frameworkov
-- 
+- https://github.com/pavolsenko/kurz-laravel/blob/master/tvorime_web_1.pdf
+- https://github.com/pavolsenko/kurz-laravel/blob/master/tvorime_web_2.pdf
 
 
 
