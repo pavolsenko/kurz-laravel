@@ -44,6 +44,9 @@ extension=php_fileinfo.dll
 - inštalačný link pre Windows https://getcomposer.org/Composer-Setup.exe
 - inštalácia na Macu a Linuxe https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
 
+### Stiahni a nainštaluj si Node.JS
+- https://nodejs.org/dist/v14.17.3/node-v14.17.3-x64.msi
+
 ### Môžeš si stiahnuť a prezrieť pomôcky z predchádzajúcich kurzov HTML a CSS frameworkov
 - https://github.com/pavolsenko/kurz-laravel/blob/master/tvorime_web_1.pdf
 - https://github.com/pavolsenko/kurz-laravel/blob/master/tvorime_web_2.pdf
