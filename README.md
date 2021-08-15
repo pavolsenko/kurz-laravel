@@ -57,7 +57,7 @@ extension=php_fileinfo.dll
 
 ### Stiahni a rozbaľ si tento súbor s aplikáciou, s ktorou budeme pracovať (napríklad na plochu)
 
-### Spusti s
+https://drive.google.com/u/0/uc?id=1kMp6sXrK2Ypwk1rKLtXxL3vWAveMVjdI&export=download
 
 ### Môžeš si stiahnuť a prezrieť pomôcky z predchádzajúcich kurzov HTML a CSS frameworkov
 - https://github.com/pavolsenko/kurz-laravel/blob/master/tvorime_web_1.pdf
