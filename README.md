@@ -5,7 +5,7 @@
 Predtým než začneme si potrebujeme nainštalovť niekoľko nástrojov, ktoré budeme používať počas tohto kurzu. 
 Ak budeš mať s čímkoľvek problém, ničoho sa neboj. Budeme mať priestor na začiatku kurzu, kde môžeme spolu vyriešiť akékoľvek problémy s inštaláciou 😉
 
-### Nainštaluj si niektorý z pokročilejších editorov (PHPStorm, VSCode, prípadne Atom alebo Notepad++)
+### Nainštaluj si niektorý z pokročilejších editorov (ideálne PHPStorm)
 
 #### PHPStorm - ideálny editor pre PHP projekty, ktorý môžeš získať nasledovne:
 
@@ -40,12 +40,24 @@ Na koniec súboru pridaj tento riadok
 extension=php_fileinfo.dll
 ```
 
-### Nainštaluj si nástroj composer
-- inštalačný link pre Windows https://getcomposer.org/Composer-Setup.exe
-- inštalácia na Macu a Linuxe https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
-
 ### Stiahni a nainštaluj si Node.JS
 - https://nodejs.org/dist/v14.17.3/node-v14.17.3-x64.msi
+
+### Overenie, či sa všetko nainštalovalo správne
+- spusti príkazový riadok pomocou `Win + R` (na Windowse) alebo Terminál (na Macu)
+- zadaj nasledovný príkaz `php -v` a stlač `enter`
+- ak uvidíš nasledovné, PHP sa nainštalovalo správne a môžme začať programovať :)
+
+![](cmd_php.png)
+
+- potom zadaj tento príkaz `npm -v` a stlač `enter`
+- ak uvidíš nasledovné, NodeJS sa nainštaloval správne
+
+![](cmd_node.png)
+
+### Stiahni a rozbaľ si tento súbor s aplikáciou, s ktorou budeme pracovať (napríklad na plochu)
+
+### Spusti s
 
 ### Môžeš si stiahnuť a prezrieť pomôcky z predchádzajúcich kurzov HTML a CSS frameworkov
 - https://github.com/pavolsenko/kurz-laravel/blob/master/tvorime_web_1.pdf
