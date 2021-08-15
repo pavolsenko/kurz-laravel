@@ -40,20 +40,12 @@ Na koniec súboru pridaj tento riadok
 extension=php_fileinfo.dll
 ```
 
-### Stiahni a nainštaluj si Node.JS
-- https://nodejs.org/dist/v14.17.3/node-v14.17.3-x64.msi
-
 ### Overenie, či sa všetko nainštalovalo správne
 - spusti príkazový riadok pomocou `Win + R` (na Windowse) alebo Terminál (na Macu)
 - zadaj nasledovný príkaz `php -v` a stlač `enter`
 - ak uvidíš nasledovné, PHP sa nainštalovalo správne a môžme začať programovať :)
 
 ![](cmd_php.png)
-
-- potom zadaj tento príkaz `npm -v` a stlač `enter`
-- ak uvidíš nasledovné, NodeJS sa nainštaloval správne
-
-![](cmd_node.png)
 
 ### Stiahni a rozbaľ si tento súbor s aplikáciou, s ktorou budeme pracovať (napríklad na plochu)
 
